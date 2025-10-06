@@ -140,10 +140,13 @@ plt.show()
 ```
 
 # Output Waveform
+
 PSK
+
 <img width="1190" height="790" alt="PSK" src="https://github.com/user-attachments/assets/d414f169-b4e4-4b07-823e-26ad25ed2f75" />
 
 QPSK
+
 <img width="989" height="590" alt="QPSK" src="https://github.com/user-attachments/assets/aeda8a63-7f97-4820-865e-cf5f52ba2a4b" />
 
 
